@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "hashbar/hashbar-promo-banner-image",
+  "title": "Hashbar Promo Banner Image",
+  "icon": "format-image",
+  "category": "hashbar-blocks",
+  "keywords": [
+    "hashbar",
+    "promo",
+    "banner",
+    "Image"
+  ],
+  "textdomain": "hashbar",
+  "editorScript": "file:./index.js",
+  "attributes": {
+    "bannerBgImage": {
+      "type": "object",
+      "default": {}
+    },
+    "imageLink": {
+      "type": "string",
+      "default": "#"
+    },
+    "openNewTab": {
+      "type": "string",
+      "default": "no"
+    }
+  }
+}

@@ -1,0 +1,314 @@
+.login-register{
+  position: absolute;
+  top: 30px; right: 15px;
+  color: #fff; color: #ffffff;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+.login-register:hover, .login-register:focus{
+  color: #fff;
+}
+@media (max-width: 1540px) and (min-width: 992px){
+  .login-register{
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+@media(max-width: 768px){
+  .login-register{
+    font-weight: 500;
+    font-size: 12px;
+    right: 70px;
+  }
+}
+
+
+section.page-builder.job-detail .builder-row .plain_content h5,
+section.page-builder.job-detail .builder-row .plain_content h6 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.card.client{
+  border: 1px solid #e1e1e1;
+}
+.plain_content hr{
+  margin: 30px 0px;
+}
+div.wpcf7-response-output{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+span.wpcf7-not-valid-tip{
+  font-size: 12px;
+  margin-top: 3px;
+}
+.breadcrumb li, .breadcrumb li a{
+  font-size: 16px;
+}
+img.alignleft{
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+.container > .wpcf7{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dropdown-menu li a:hover{
+	color: #e60000;
+}
+.dropdown-menu li a:active{
+	color: #e60000;
+}
+div.wpcf7-validation-errors:before {
+    font-family: 'Font Awesome 5 Free' !important;
+}
+div.wpcf7-mail-sent-ok{
+	padding-left: 50px !important;
+}
+div.wpcf7-mail-sent-ok:before{
+    content: '\f00c';
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    border-right: 2px solid #4f8a10;
+    border-bottom: 2px solid #4f8a10;
+    transform: rotate(45deg);
+	margin-left: -30px;
+}
+.iframe-card-slider{
+	border: none;
+	height: 205px
+}
+.page-id-5 #why-odepc .title.desc{
+	margin-bottom: 30px;	
+}
+section.page-builder .builder-row .card {
+    background: #f0f0f0;
+}
+/*media query */
+@media(max-width: 1200px){
+	.iframe-card-slider{
+		height: 163px
+	}
+}
+@media (min-width: 992px){
+	.dropdown-toggle.nav-link{
+		margin-right: 15px
+	}
+		.navbar-expand-lg .navbar-nav .dropdown-toggle.nav-link:before {
+			margin-right: 15px
+		}
+	}
+@media(max-width: 991px){
+	section.page-builder .builder-row h1{
+		font-size: 48px;
+		line-height: 50px
+	}
+	section.page-builder .builder-row h2{
+		font-size: 40px;
+		line-height: 46px
+	}
+	section.page-builder .builder-row h3{}
+	section.page-builder .builder-row h4{}
+	section.page-builder .builder-row h5{}
+	section.page-builder .builder-row h6{}
+	section.page-builder .builder-row .listing .col-md-3{
+		flex: 0 0 33.333333%;
+		max-width: 33.333333%;
+	}
+	section.page-builder .builder-row .listing>.col-md-3:nth-child(n+4){
+		margin-top: 20px;
+	}
+	section.page-builder .builder-row h4.card-title{
+		font-size: 16px;
+	}
+	.iframe-card-slider{
+		height: 185px
+	}
+}
+@media(max-width: 768px){
+	
+	section.page-builder .builder-row .listing .col-md-3{
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	section.page-builder .builder-row .listing>.col-md-3:nth-child(n+3){
+		margin-top: 20px;
+	}
+	.page-id-17 .col-md-4 + .col-md-4{
+		margin-top: 0;
+	}
+	.page-id-470 .blockquote-body p br{
+		display: block;
+	}
+	.page-id-495 .builder-row .col-md-3 + .col-md-3{
+		    margin-top: 0;
+	}
+	.page-id-1239 #hire-jobs .card + .card {
+    	margin-top: 0;
+	}
+}
+@media(max-width: 736px){
+	section.page-builder .builder-row h1{
+		font-size: 30px;
+	}
+	section.page-builder .builder-row h2{
+		font-size: 28px;
+	}
+	section.page-builder .builder-row .listing .col-md-3{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	section.page-builder .builder-row .listing>.col-md-3:nth-child(n+2){
+		margin-top: 10px;
+	}
+	section.page-builder .builder-row .listing>.col-md-4:nth-child(n+2){
+		margin-top: 10px;
+	}
+	img.alignleft{
+		max-width: 100%;
+	}
+	.events-detail .well{
+		margin-top: 15px;
+	}
+	.page-id-495 .builder-row .col-md-3 + .col-md-3{
+		    margin-top: 15px;
+	}
+	.page-id-1239 #hire-jobs hr.top-margin-md{
+		margin-top: 0 !important;
+	}
+	.page-id-1239 #hire-jobs .card{
+    	padding-top: 0;
+	}
+	.page-id-1242 #hire-jobs hr.top-margin-md{
+		margin-top: 0 !important;
+	}
+	.page-id-1242 #hire-jobs .card{
+    	padding-top: 0;
+    	margin-top: 0
+	}
+	.bottom-margin-sm-only{
+		margin-bottom: 20px;
+	}
+	.page-id-21 section.page-builder .builder-row .plain_content .col-md-7 .wpcf7 .wpcf7-form .col-md-6 + .col-md-6 {
+    	margin-top: 0;
+	}
+	.page-id-5 #why-odepc .title.desc p{
+		margin: 14px;	
+	}
+}
+@media(max-width: 320px){
+	#recaptcha1{
+		transform: scale(0.8);
+		transform-origin: left;
+	}
+	#recaptcha2{
+		transform: scale(0.8);
+		transform-origin: left;
+	}
+}
+
+
+.home header:before
+{
+	display: none;
+}
+.hero-out {
+	background-repeat: no-repeat;
+	background-position: left 20% bottom;
+}
+/* .hero-out {
+	background-repeat: no-repeat;
+	background-position: left -80px bottom;
+} */
+
+@media (min-width: 1201px){
+	.hero-slider-item {
+		background-position: left 21% bottom;
+	}
+}
+/*@media (min-width: 736px){
+	.hero-slider-item {
+		background-position: left 21% bottom;
+	}
+}*/
+@media (max-width: 736px){
+
+	.main-nav+.container-fluid {
+		padding-right: 0;
+    	padding-left: 0;
+	}
+}
+/* #latest-updates .card p,#latest-updates .card-body p.card-text{
+	color: #555;
+} */
+
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+  left: 0px;
+  right: auto;
+}
+@media(max-width: 1920px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu{
+    left: -1px;
+    right: auto;
+  }
+}
+@media(max-width: 1540px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu{
+    left: -5px;
+    right: auto;
+  }
+}
+@media(max-width: 991px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu{
+    left: 0px;
+    right: auto;
+    margin: 0px;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu li a:hover{
+    background: transparent;
+  }
+}
+/* nihal */
+.link-tag.text-decoration-none
+{
+	text-decoration: none;
+}
+
+
+@media (max-width:991px){
+	.card.events .btn-wrap 
+	{
+		flex-flow: column;
+	}
+	
+	.card.events .btn-wrap a + a{
+		margin-top: 10px;
+	}
+	.slick-dots li button
+{
+	height: 8px;
+	width: 40px;
+}
+	
+}
+.page-id-1011 section.page-builder .builder-row .card {
+    background: none;
+}
+.page-id-1011 section.page-builder .builder-row .card + .card {
+    margin-top:60px;
+}
+@media (max-width: 768px){
+.page-id-1011 section.page-builder .builder-row .card + .card {
+    margin-top:20px;
+}
+	
+}
+.page-id-1011 section.page-builder .builder-row .card-body{
+	background: none;
+}

@@ -1,0 +1,124 @@
+[19-Jun-2024 12:04:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[19-Jun-2024 23:17:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[24-Jun-2024 02:38:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[24-Jun-2024 02:57:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[26-Jun-2024 01:41:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[26-Jun-2024 06:07:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[27-Jun-2024 01:04:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[27-Jun-2024 01:04:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[27-Jun-2024 20:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[27-Jun-2024 20:12:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[02-Jul-2024 01:06:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[02-Jul-2024 06:07:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[02-Jul-2024 06:10:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[03-Jul-2024 21:23:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[03-Jul-2024 21:24:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[05-Jul-2024 19:25:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[05-Jul-2024 19:31:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[08-Jul-2024 21:09:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[08-Jul-2024 21:14:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[25-Jul-2024 05:55:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[25-Jul-2024 05:57:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[25-Jul-2024 18:37:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[07-Aug-2024 16:27:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[10-Aug-2024 22:53:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[14-Aug-2024 04:25:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[22-Aug-2024 03:02:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[26-Aug-2024 11:58:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/admin.php on line 16
+[04-Sep-2024 21:26:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[04-Sep-2024 21:27:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[15-Sep-2024 09:12:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16
+[15-Sep-2024 09:15:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-admin/includes/file.php on line 16

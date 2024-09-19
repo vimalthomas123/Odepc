@@ -1,0 +1,96 @@
+[19-Jun-2024 07:57:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[19-Jun-2024 17:09:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[22-Jun-2024 13:33:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[02-Jul-2024 20:21:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[02-Jul-2024 20:28:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[07-Jul-2024 12:43:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[07-Jul-2024 12:54:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[16-Jul-2024 01:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[16-Jul-2024 19:41:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[17-Jul-2024 07:03:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[18-Jul-2024 07:25:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[19-Jul-2024 00:40:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php on line 17
+[25-Jul-2024 01:36:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[25-Jul-2024 23:36:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[28-Jul-2024 08:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[30-Jul-2024 07:02:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[10-Aug-2024 22:56:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php on line 17
+[14-Aug-2024 04:28:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php on line 17
+[22-Aug-2024 03:05:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/index.php on line 17
+[29-Aug-2024 14:18:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[31-Aug-2024 07:47:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[31-Aug-2024 11:10:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/404.php on line 10
+[16-Sep-2024 14:14:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150
+[16-Sep-2024 14:28:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php:150
+Stack trace:
+#0 {main}
+  thrown in /home3/pixelflames/odepc.kerala.gov.in/wp-content/themes/twentytwenty/functions.php on line 150

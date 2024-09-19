@@ -1,0 +1,135 @@
+
+# BEGIN All In One WP Security
+#AIOWPS_CUSTOM_RULES_START
+<IfModule mod_headers.c>
+# X-XSS-Protection
+Header set X-XSS-Protection "1; mode=block"
+
+# X-Frame-Options
+Header always set X-Frame-Options "SAMEORIGIN"
+
+# Referrer Policy
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+# X-Content-Type-Options
+Header always set X-Content-Type-Options "nosniff"
+
+# Strict-Transport-Security
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+Header always set Permissions-Policy "geolocation=(), midi=(), sync-xhr=(), fullscreen=();"
+
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+
+Header always unset X-Powered-By
+Header unset X-Powered-By
+
+Header set Access-Control-Allow-Origin "https://odepc.fbappsdxb.co/"
+
+</IfModule>
+#AIOWPS_CUSTOM_RULES_END
+#AIOWPS_BASIC_HTACCESS_RULES_START
+<Files .htaccess>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+ServerSignature Off
+LimitRequestBody 2097152
+<Files wp-config.php>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_BASIC_HTACCESS_RULES_END
+#AIOWPS_DEBUG_LOG_BLOCK_HTACCESS_RULES_START
+<Files debug.log>
+<IfModule mod_authz_core.c>
+Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+Order deny,allow
+Deny from all
+</IfModule>
+</Files>
+#AIOWPS_DEBUG_LOG_BLOCK_HTACCESS_RULES_END
+#AIOWPS_DISABLE_INDEX_VIEWS_START
+Options -Indexes
+#AIOWPS_DISABLE_INDEX_VIEWS_END
+#AIOWPS_PREVENT_IMAGE_HOTLINKS_START
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g?|png)$ [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://odepc\.fbappsdxb\.co [NC]
+RewriteRule \.(gif|jpe?g?|png)$ - [F,NC,L]
+</IfModule>
+#AIOWPS_PREVENT_IMAGE_HOTLINKS_END
+# END All In One WP Security
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php83” package as the default “PHP” programming language.
+<IfModule mime_module>
+AddHandler application/x-httpd-ea-php83___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+
+# BEGIN Speed Optimizer by 10Web
+# The directives (lines) between "BEGIN Speed Optimizer by 10Web" and "END Speed Optimizer by 10Web" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Does browser explicitly support webp?
+RewriteCond %{HTTP_USER_AGENT} Chrome [OR]
+# OR Is request from Page Speed
+RewriteCond %{HTTP_USER_AGENT} "Google Page Speed Insights" [OR]
+# OR does this browser explicitly support webp
+RewriteCond %{HTTP_ACCEPT} image/webp
+# AND NOT MS EDGE 42/17 - doesnt work.
+RewriteCond %{HTTP_USER_AGENT} !Edge/17
+# AND is the request a jpg, png or gif?
+RewriteCond %{REQUEST_URI} ^(.+)\.(?:jpe?g|png|gif)$
+# AND does a .ext.webp image exist?
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.webp -f
+# THEN send the webp image and set the env var webp
+RewriteRule ^(.+)$ $1.webp [NC,T=image/webp,E=webp,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+# If REDIRECT_webp env var exists, append Accept to the Vary header
+Header append Vary Accept env=REDIRECT_webp
+</IfModule>
+
+<IfModule mod_mime.c>
+AddType image/webp .webp
+</IfModule>
+
+# END Speed Optimizer by 10Web
